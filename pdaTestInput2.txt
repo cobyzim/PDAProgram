@@ -1,0 +1,10 @@
+q1
+q4
+q1 (0 e e) q1
+q1 (1 e e) q2
+q2 (0 e e) q2
+q2 (1 e e) q3
+q3 (0 e e) q3
+q3 (1 e e) q4
+q4 (0 e e) q4
+q4 (1 e e) q4
